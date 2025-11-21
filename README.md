@@ -39,7 +39,10 @@ The application is organized into several core components:
 
 ## Dataset
 
-Place your dataset inside a folder named **`Dataset`** with subfolders for images, masks, and a CSV mapping file.
+Download and unzip the dataset, then name the folder **`Dataset`** and place it next to the project directory (outside the Python files):
+
+🔗 **Dataset Link:**  
+https://drive.google.com/file/d/1K4ReQ5Cy2f2RwGFn1LU29kwSbRDMLmMq/view
 
 Your directory structure should look like:
 ```bash
